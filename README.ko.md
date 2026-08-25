@@ -34,6 +34,12 @@
 
 사진에서 가장 기억에 남는 주체, 몸짓, 관계와 감정을 골라 현실을 짧은 여행 우화나 개인적인 신화로 다시 들려줍니다. 과슈, 파스텔, 색연필, 크레용 같은 종이 질감에 절제된 여백과 순진한 유머를 더해 그림책의 온기와 세련된 편집 디자인의 질서를 함께 만듭니다.
 
+## 원본 프롬프트 · 5개 언어
+
+[통일된 다국어 디렉터리 열기](references/original-prompt/): [중국어 간체 원문](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+중국어 간체 파일은 샤오샤오둥이 제공한 문구를 그대로 보존하며 실행 시 유일한 미적 기준입니다. 다른 네 파일은 국제 독자의 이해와 공유를 위한 충실한 번역이며 이미지 생성 프롬프트를 역으로 바꾸지 않습니다.
+
 <!-- xxd-panel-benefit:start -->
 ## 빠른 판단: XXD Panel 059이 나에게 맞을까요?
 
@@ -61,11 +67,11 @@
 - 옅은 핑크 블루, 안개빛 파랑, 크림, 연한 베이지, 부드러운 회녹색과 소량의 블러시가 맑고 치유적인 공기를 유지합니다.
 - 주체는 중하단이나 서사적 긴장점에 놓이며, 시적인 메모는 직설적 설명이 아니라 영리한 방백으로 여백에 들어갑니다.
 
-미적 제약과 금지 항목은 [원본 프롬프트](references/059-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-059-prompt.en.md)
+미적 제약과 금지 항목은 [원본 프롬프트](references/original-prompt/zh-CN.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-059-prompt.en.md)
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 
-`references/059-source.md`는 이 프로젝트의 유일한 창작·미적 기준입니다. Skill은 원문을 요약하거나 확장하지 않으며 공통 색상 계획, 미적 동기, 제목, 마이크로카피를 추가하지 않습니다. 색, 재료, 구성, 여백, 문구, 타이포그래피는 GPT Image 2가 원본 프롬프트의 규칙대로 수행합니다.
+`references/original-prompt/zh-CN.md`는 이 프로젝트의 유일한 창작·미적 기준입니다. Skill은 원문을 요약하거나 확장하지 않으며 공통 색상 계획, 미적 동기, 제목, 마이크로카피를 추가하지 않습니다. 색, 재료, 구성, 여백, 문구, 타이포그래피는 GPT Image 2가 원본 프롬프트의 규칙대로 수행합니다.
 
 모드와 크기는 원본의 변환 미학을 바꾸지 않고 기존 3:4 상하 출력 컨테이너를 완전히 대체합니다. 각 결과물에는 선택된 하나의 모드 계약만 GPT Image 2에 전달하며, 네 가지 대안을 하나의 범용 템플릿에서 해석하게 하지 않습니다.
 
@@ -205,7 +211,7 @@ $xxd-panel-059
 Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
 ```
 
-전체 사양: [Skill 워크플로](SKILL.md) · [원본 스타일 자료](references/059-source.md) · [영문 런타임 어댑터](references/xxd-panel-059-prompt.en.md) · [중문 런타임 어댑터](references/xxd-panel-059-prompt.zh-CN.md)
+전체 사양: [Skill 워크플로](SKILL.md) · [원본 스타일 자료](references/original-prompt/zh-CN.md) · [영문 런타임 어댑터](references/xxd-panel-059-prompt.en.md) · [중문 런타임 어댑터](references/xxd-panel-059-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 전체 프로젝트 목록

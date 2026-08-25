@@ -34,6 +34,12 @@
 
 写真で最も記憶に残る主体、身振り、関係、感情を選び、現実を短い旅の寓話や私的な神話として語り直します。ガッシュ、パステル、色鉛筆、クレヨンのような紙面の手触りに、抑制された余白と無邪気なユーモアを添え、絵本らしさと上質な編集デザインの秩序を両立させます。
 
+## 原始プロンプト · 5言語
+
+[統一された多言語ディレクトリを開く](references/original-prompt/): [簡体字中国語原文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
+
+簡体字中国語ファイルは小小東の文言を逐語で保存し、実行時の唯一の美的基準です。他の4言語は海外の読者が読み、共有するための忠実な翻訳であり、画像生成プロンプトを書き換えません。
+
 <!-- xxd-panel-benefit:start -->
 ## すぐに判断：XXD Panel 059 はあなたに合う？
 
@@ -61,11 +67,11 @@
 - 淡いピンクブルー、霧の青、クリーム、淡いベージュ、くすみ緑、少量のブラッシュが、軽やかで癒やされる空気を保ちます。
 - 主体は中下部や物語の緊張点に置かれ、詩的な注記は説明ではなく賢い傍白として余白に入ります。
 
-美的制約と拒否項目は[原文プロンプト](references/059-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-059-prompt.en.md)
+美的制約と拒否項目は[原文プロンプト](references/original-prompt/zh-CN.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-059-prompt.en.md)
 
 ## 原文プロンプトを唯一の美的基準にする
 
-`references/059-source.md` が、このプロジェクト唯一の創作・美的基準です。Skill は原文を要約・拡張せず、共通の配色計画、美的動機、タイトル、マイクロコピーを追加しません。色、素材、構図、余白、言葉、タイポグラフィは、GPT Image 2 が原文プロンプトの規則どおりに実行します。
+`references/original-prompt/zh-CN.md` が、このプロジェクト唯一の創作・美的基準です。Skill は原文を要約・拡張せず、共通の配色計画、美的動機、タイトル、マイクロコピーを追加しません。色、素材、構図、余白、言葉、タイポグラフィは、GPT Image 2 が原文プロンプトの規則どおりに実行します。
 
 モードとサイズは、原文の変換美学を変えずに、旧来の 3:4 上下出力コンテナを完全に置き換えます。各成果物では選択された一つのモード契約だけを GPT Image 2 に送り、四つの候補を一つの汎用テンプレート内で解釈させません。
 
@@ -205,7 +211,7 @@ $xxd-panel-059
 Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
 ```
 
-完全仕様: [Skill ワークフロー](SKILL.md) · [原始スタイル資料](references/059-source.md) · [英語ランタイムアダプター](references/xxd-panel-059-prompt.en.md) · [中国語ランタイムアダプター](references/xxd-panel-059-prompt.zh-CN.md)
+完全仕様: [Skill ワークフロー](SKILL.md) · [原始スタイル資料](references/original-prompt/zh-CN.md) · [英語ランタイムアダプター](references/xxd-panel-059-prompt.en.md) · [中国語ランタイムアダプター](references/xxd-panel-059-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全プロジェクト一覧
