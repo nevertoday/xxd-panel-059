@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 059
+# 🦁 XXD Panel 059｜手绘寓言录
 
 ### 把照片里没说出口的故事，画成温暖、童真又聪明的寓言绘本
 

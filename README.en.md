@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 059
+# 🦁 XXD Panel 059｜Hand-Drawn Fable Book
 
 ### Turn the photograph's unspoken story into a warm, childlike, and quietly clever illustrated fable
 
