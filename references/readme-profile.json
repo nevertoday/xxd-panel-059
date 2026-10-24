@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 059｜Hand-Drawn Fable Book: retells the unspoken story behind a photo as a warm, childlike, gently witty hand-drawn fable — the recognisable subject kept, with playful exaggerated scale, a hint of personification, metaphorical scenery or repeated symbols growing out of the real scene, a few supporting paths, plants or buildings, and plenty of pale open space. Opaque gouache, pastel, coloured pencil, crayon or acrylic with soft colour blocks, slightly clumsy outlines and light paper grain, in muted airy pale blues balanced by ivory, cream and soft grey-green with touches of blush pink, soft peach or dusty rose. A few small poetic asides, never captions. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-059 or asks for a picture-book fable, whimsical hand-drawn storybook or childlike metaphor illustration from a photo.",
+  "short_description": "手绘寓言录：把照片里没说出口的故事，画成温暖童真、带点诙谐的手绘寓言绘本",
+  "zh-CN": {
+    "name": "手绘寓言录",
+    "tagline": "把照片里没说出口的故事，画成一页温暖、童真又聪明的寓言绘本。",
+    "look": "照片的主体还认得出来，但现实被轻轻改写成一段寓言：比例可以夸张，带一点拟人意味，隐喻的景物或重复的符号从真实场景里长出来，周围只留几条小路、几株植物或一两座房子做陪衬，大片淡色留白。画法是手绘绘本式：不透明水粉、粉彩、彩铅、蜡笔或丙烯，柔和色块、略带笨拙的轮廓、轻微纸纹和手工误差。颜色以浅粉蓝、雾蓝、天空蓝为主，配象牙白、奶油白、柔和灰绿，点几处腮红粉、柔桃色或灰玫瑰。文字是几句很小的诗性旁白，若有若无地呼应画面，不直白解释。",
+    "traits": ["手绘叙事", "童真隐喻", "轻微诙谐", "纸面材料感", "诗性旁白", "大留白"],
+    "good": [
+      "有情绪或小故事的日常瞬间：等车的人、晒太阳的猫、雨天撑伞的孩子",
+      "容易引出联想的对象：一只纸船、一棵大树、一盏路灯、一扇小窗",
+      "想做成绘本插图、贺卡、文章配图或温暖海报的照片"
+    ],
+    "poor": [
+      "需要真实还原的图：证件照、产品图、新闻纪实照片",
+      "严肃正式的用途：商务汇报、医疗或法律材料，寓言化的想象会显得不合适",
+      "想要光滑矢量、3D、写实精描或套路化卡通的效果"
+    ]
+  },
+  "en": {
+    "name": "Hand-Drawn Fable Book",
+    "tagline": "Draws the story your photo leaves unsaid as a page from a warm, childlike and quietly clever fable book.",
+    "look": "The subject is still recognisable, but reality is gently rewritten as a fable: scale may be exaggerated, with a hint of personification, and metaphorical scenery or repeated symbols grow out of the real scene, while only a few paths, plants or a house or two stay in support, surrounded by wide pale space. It is drawn like a picture book in opaque gouache, pastel, coloured pencil, crayon or acrylic, with soft colour blocks, slightly clumsy outlines, light paper grain and small handmade flaws. Colours are mainly pale blue, mist blue and sky blue with ivory, cream and soft grey-green, plus a few touches of blush pink, soft peach or dusty rose. Text is a few small poetic asides that echo the picture without explaining it.",
+    "traits": ["Hand-drawn storytelling", "Childlike metaphor", "Light humour", "Paper and material feel", "Poetic asides", "Wide whitespace"],
+    "good": [
+      "Everyday moments with a mood or small story: someone waiting for a bus, a cat in the sun, a child with an umbrella in the rain",
+      "Things that invite imagination: a paper boat, a big tree, a street lamp, a small window",
+      "Photos for a picture-book illustration, a greeting card, an article image or a warm poster"
+    ],
+    "poor": [
+      "Images that must stay true to life: ID photos, product shots, news and documentary photos",
+      "Serious formal uses such as business reports or medical and legal material, where imaginative fables feel out of place",
+      "Requests for smooth vector, 3D, detailed realism or formulaic cartoons"
+    ]
+  },
+  "ja": {
+    "name": "手描き寓話録",
+    "tagline": "写真が口にしなかった物語を、温かく、子どもらしく、さりげなく賢い寓話絵本の一ページに描きます。",
+    "look": "主役は見分けられるまま、現実がそっと寓話に書き換えられます。比率は誇張されることもあり、少し擬人化の気配があって、比喩の景色や繰り返す記号が実際の場面から生えてきます。添えるのは小道、草木、家が一、二軒ほどで、まわりには淡い余白が大きく広がります。描き方は絵本のように、不透明なガッシュ、パステル、色鉛筆、クレヨン、アクリルで、柔らかな色面、少し不器用な輪郭、かすかな紙の目、小さな手作りのずれ。色は淡いピンクがかった青、霧のような青、空色を中心に、アイボリー、生成り、柔らかな灰緑、そこにブラッシュピンク、柔らかなピーチ、くすんだローズを数か所。文字は小さな詩的なつぶやきが少しだけで、絵をそっと響かせ、説明はしません。",
+    "traits": ["手描きの物語", "子どもらしい比喩", "軽いユーモア", "紙と素材の質感", "詩的なつぶやき", "大きな余白"],
+    "good": [
+      "気分や小さな物語がある日常の瞬間：バスを待つ人、日なたの猫、雨の日に傘をさす子ども",
+      "想像をふくらませやすいもの：紙の舟、大きな木、街灯、小さな窓",
+      "絵本の挿絵、グリーティングカード、記事の挿絵、温かなポスターにしたい写真"
+    ],
+    "poor": [
+      "事実どおりの再現が必要な画像：証明写真、商品写真、報道やドキュメンタリーの写真",
+      "ビジネスの報告書や医療、法律の資料など、改まった用途（寓話的な想像がそぐいません）",
+      "なめらかなベクター、3D、写実的な描き込み、型どおりのキャラクター風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "손그림 우화집",
+    "tagline": "사진이 말하지 않은 이야기를 따뜻하고 천진하며 은근히 영리한 우화 그림책의 한 페이지로 그립니다.",
+    "look": "주인공은 알아볼 수 있게 두고, 현실을 살짝 우화로 고쳐 씁니다. 비율을 과장하기도 하고 약간의 의인화가 깃들며, 은유적인 풍경이나 반복되는 기호가 실제 장면에서 자라납니다. 곁에는 오솔길, 풀과 나무, 집 한두 채 정도만 두고 주변은 넓은 연한 여백으로 남깁니다. 그림은 그림책처럼 불투명 과슈, 파스텔, 색연필, 크레용, 아크릴로 그리며, 부드러운 색면, 조금 서툰 윤곽, 옅은 종이 결, 작은 수작업 오차가 있습니다. 색은 연분홍빛 파랑, 안개빛 파랑, 하늘색을 중심으로 아이보리, 크림색, 부드러운 회녹색에 블러시 핑크, 소프트 피치, 더스티 로즈를 몇 군데 둡니다. 글자는 작은 시적 혼잣말 몇 줄로, 그림과 은근히 어울릴 뿐 설명하지 않습니다.",
+    "traits": ["손그림 서사", "천진한 은유", "가벼운 유머", "종이와 재료의 질감", "시적인 혼잣말", "넓은 여백"],
+    "good": [
+      "감정이나 작은 이야기가 있는 일상의 순간: 버스를 기다리는 사람, 햇볕 아래 고양이, 비 오는 날 우산 쓴 아이",
+      "상상을 불러일으키는 대상: 종이배, 큰 나무, 가로등, 작은 창문",
+      "그림책 삽화, 카드, 글 삽화, 따뜻한 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사실대로 재현해야 하는 이미지: 증명사진, 제품 사진, 보도나 다큐멘터리 사진",
+      "업무 보고서나 의료, 법률 자료처럼 격식 있는 용도(우화적인 상상이 어울리지 않습니다)",
+      "매끈한 벡터, 3D, 사실적인 세밀 묘사, 판에 박힌 캐릭터 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كتاب الخرافات المرسوم يدويًا",
+    "tagline": "يرسم الحكاية التي لا تقولها صورتك صفحةً من كتاب خرافات دافئ طفولي وذكي بهدوء.",
+    "look": "يبقى الموضوع معروفاً، لكن الواقع يُعاد كتابته برفق حكايةً رمزية: قد يُبالغ في الأحجام، مع لمحة من التشخيص، وتنبت مناظر استعارية أو رموز متكررة من المشهد الحقيقي، ولا يبقى للمساندة إلا بضعة ممرات أو نباتات أو بيت أو بيتين، يحيط بها فراغ فاتح واسع. الرسم على طريقة الكتب المصورة بالغواش المعتم أو الباستيل أو الأقلام الملونة أو الطباشير الشمعي أو الأكريليك، بكتل لونية ناعمة وحدود فيها شيء من الخرق وحبيبات ورق خفيفة وهفوات يدوية صغيرة. الألوان أساساً أزرق وردي فاتح وأزرق ضبابي وأزرق سماوي مع العاجي والكريمي والأخضر الرمادي الناعم، ولمسات قليلة من الوردي الخجول والخوخي الناعم والوردي الباهت. النص بضع عبارات شاعرية صغيرة تتردد مع الصورة دون أن تشرحها.",
+    "traits": ["سرد مرسوم يدوياً", "استعارة طفولية", "دعابة خفيفة", "ملمس الورق والمواد", "عبارات شاعرية", "فراغ واسع"],
+    "good": [
+      "لحظات يومية فيها مزاج أو حكاية صغيرة: شخص ينتظر الحافلة، قطة في الشمس، طفل بمظلة تحت المطر",
+      "أشياء تثير الخيال: قارب ورقي، شجرة كبيرة، مصباح شارع، نافذة صغيرة",
+      "صور لرسم في كتاب مصور أو بطاقة تهنئة أو صورة لمقال أو ملصق دافئ"
+    ],
+    "poor": [
+      "صور يجب أن تبقى مطابقة للواقع: صور الهوية، صور المنتجات، الصور الإخبارية والوثائقية",
+      "الاستخدامات الرسمية الجادة كتقارير العمل أو المواد الطبية والقانونية، حيث لا يناسبها الخيال الرمزي",
+      "طلب رسوم متجهية ملساء أو مجسمات ثلاثية الأبعاد أو واقعية مفصلة أو رسوم كرتونية نمطية"
+    ]
+  }
+}

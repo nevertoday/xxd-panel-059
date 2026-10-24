@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-059
-description: "Create XXD Panel 059 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-059 or requests the exact Panel 059 style."
+description: "XXD Panel 059｜Hand-Drawn Fable Book: retells the unspoken story behind a photo as a warm, childlike, gently witty hand-drawn fable — the recognisable subject kept, with playful exaggerated scale, a hint of personification, metaphorical scenery or repeated symbols growing out of the real scene, a few supporting paths, plants or buildings, and plenty of pale open space. Opaque gouache, pastel, coloured pencil, crayon or acrylic with soft colour blocks, slightly clumsy outlines and light paper grain, in muted airy pale blues balanced by ivory, cream and soft grey-green with touches of blush pink, soft peach or dusty rose. A few small poetic asides, never captions. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-059 or asks for a picture-book fable, whimsical hand-drawn storybook or childlike metaphor illustration from a photo."
 ---
 
 # XXD Panel 059
